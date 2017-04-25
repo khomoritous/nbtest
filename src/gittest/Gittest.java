@@ -3,6 +3,8 @@ package gittest;
 
 /**
  * Adding a new comment that will appear on github
+ * 
+ * This comment is made on the branch khomo
  * @author monde
  */
 public class Gittest {
